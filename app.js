@@ -1,4 +1,4 @@
-'use strict'
+"use strict"
 // Listen for submit
 document.getElementById('loan-form').addEventListener('submit', function(e) {
     // Hide results
